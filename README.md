@@ -1,4 +1,4 @@
----
+
 <p align="center"> 
 <a href="www.linkedin.com/in/rajput-hemant">
 <img align="left" alt="rajput-hemant's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> </a>
@@ -19,7 +19,7 @@
 ```
 
 ## My Github Stats:
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=rajput-hemant&show_icons=true&theme=aura"> <img align="right" width="29%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajput-hemant&theme=aura"> 
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=rajput-hemant"> <img align="right" width="29%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajput-hemant"> 
 
 
 ## IDE/Editor (s) In Use:
@@ -48,7 +48,7 @@
 
 ## Commits & Streak:
 <p align="left" >
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=rajput-hemant&theme=holi-theme&date_format=M%20j%5B%2C%20Y%5D&sideNums=A177FE&currStreakNum=A177FE&sideLabels=61FEC9&currStreakLabel=61FEC9&background=15141B&ring=61FEC9&fire=DD2727&stroke=DD5ACF&border=E4E2E2">
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=rajput-hemant">
 </p>
 <br>
 <p align="center">
