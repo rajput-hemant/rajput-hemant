@@ -4,7 +4,6 @@
 <img align="left" alt="rajput-hemant's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> </a>
 <img align="left" width="28px" src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif">
 <img align="right" src="https://komarev.com/ghpvc/?username=rajput-hemant&label=Profile%20views&color=0e75b6&style=flat" alt="rajput-hemant" />
-
 <img align="right" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 </p>
 <br> <br>
@@ -19,7 +18,7 @@
 ```
 
 ## My Github Stats:
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=rajput-hemant"> <img align="right" width="29%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajput-hemant"> 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=rajput-hemant"><img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajput-hemant&show_icons=true&locale=en&layout=compact">
 
 
 ## IDE/Editor (s) In Use:
