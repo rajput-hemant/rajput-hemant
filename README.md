@@ -51,9 +51,10 @@
 
 ## 💻 Tech Stack:
 
-![][c] ![][c++] ![][dart] ![][java] ![][markdown] ![][python] <br>
+![][git] ![][github] ![][vscode] ![][arch] <br>
+![][c] ![][c++] ![][dart] ![][java] ![][markdown] ![][python] ![][php] <br>
 ![][aws] ![][azure] ![][cloudflare] ![][firebase] ![][gcp] ![][heroku] ![][kubernetes] <br>
-![][flutter] ![][docker]
+![][flutter] ![][docker] ![][mysql]
 
 ## 📊 GitHub Stats:
 
@@ -75,7 +76,7 @@
 
 <!----------------------------------{ reference links }--------------------------------->
 
-[stats]: https://github-readme-stats.vercel.app/api?username=rajput-hemant&theme=dark&hide_border=false&include_all_commits=true&count_private=false
+[stats]: https://github-readme-stats.vercel.app/api?username=rajput-hemant&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=false
 [langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=rajput-hemant&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact
 [streaks]: https://github-readme-streak-stats.herokuapp.com/?user=rajput-hemant&theme=dark&hide_border=false#gh-light-mode-only
 [quote]: https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark
@@ -89,6 +90,7 @@
 [java]: https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java
 [markdown]: https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown
 [python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+[php]: https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white
 [heroku]: https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku
 [cloudflare]: https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white
 [gcp]: https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white
@@ -104,6 +106,11 @@
 [flutter]: https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter
 [docker]: https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
 [kubernetes]: https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white
+[github]: https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
+[mysql]: https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white
+[arch]: https://img.shields.io/badge/archlinux-%231793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=white
+[git]: https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
+[vscode]: https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white
 
 <!----------------------------------{ contribution stats }--------------------------------->
 
