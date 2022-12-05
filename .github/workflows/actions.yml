@@ -1,0 +1,33 @@
+name: README
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 2 * *" # runs every 2nd day of month
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout repo content
+        uses: actions/checkout@v2 # checkout the repository content to github runner
+
+      - name: setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: "3.9" # install the python version needed
+
+      - name: execute py script # run get_age.py to get the latest age data
+        run: python get_age.py
+
+      - name: commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git diff-index --quiet HEAD || (git commit -a -m "updating README.md: sheeeesh, you are getting old 🙂" --allow-empty)
+
+      - name: push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: master
