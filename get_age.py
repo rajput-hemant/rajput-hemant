@@ -1,28 +1,33 @@
 from datetime import datetime as date
+from dateutil import relativedelta
 
 
 def get_age(birthday):
-    duration = (date.now() - birthday).total_seconds()
+    """
+    Returns the length of time since I was born
+    e.g. 'XX years, XX months, XX days'
+    """
 
-    def get_years():
-        return divmod(duration, 31557600)  # a year = 31557600 seconds
+    def format_plural(unit):
+        """
+        Returns a properly formatted number
+        e.g.
+        'day' + format_plural(diff.days) == 5
+        >>> '5 days'
+        'day' + format_plural(diff.days) == 1
+        >>> '1 day'
+        """
+        return "s" if unit != 1 else ""
 
-    def get_months(seconds):
-        return divmod(seconds, 2629800)  # a month = 2629800 seconds
-
-    def get_days(seconds):
-        return divmod(seconds, 86400)  # a day = 86400 seconds
-
-    def total_duration():
-        years = get_years()
-        months = get_months(years[1])
-        days = get_days(months[1])
-
-        return [int(years[0]), int(months[0]), int(days[0])]
-
-    age = total_duration()
-
-    return f"{age[0]} years, {age[1]} months, {age[2]} days"
+    diff = relativedelta.relativedelta(date.today(), birthday)
+    return "{} {}, {} {}, {} {}".format(
+        diff.years,
+        "year" + format_plural(diff.years),
+        diff.months,
+        "month" + format_plural(diff.months),
+        diff.days,
+        "day" + format_plural(diff.days),
+    )
 
 
 with open("README.md", "r", encoding="utf-8") as file:
