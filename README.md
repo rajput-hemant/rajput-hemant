@@ -80,7 +80,12 @@
 [langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=rajput-hemant&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact
 [streaks]: https://github-readme-streak-stats.herokuapp.com/?user=rajput-hemant&theme=dark&hide_border=false#gh-light-mode-only
 [quote]: https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark
-[meme]: https://random-memer.herokuapp.com
+[meme]: https://random-memer.heavens-mirror.repl.co
+
+<!----------------------------------{ contribution stats }--------------------------------->
+
+[snake]: https://github.com/rajput-hemant/rajput-hemant/blob/output/snake.svg
+[graph]: https://github-readme-activity-graph.cyclic.app/graph?username=rajput-hemant&theme=react-dark&hide_border=false&area=true
 
 <!----------------------------------{ language badges }--------------------------------->
 
@@ -111,11 +116,6 @@
 [arch]: https://img.shields.io/badge/archlinux-%231793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=white
 [git]: https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
 [vscode]: https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white
-
-<!----------------------------------{ contribution stats }--------------------------------->
-
-[snake]: https://github.com/rajput-hemant/rajput-hemant/blob/output/snake.svg
-[graph]: https://activity-graph.herokuapp.com/graph?username=rajput-hemant&theme=react-dark&hide_border=false&area=true
 
 <!--
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
