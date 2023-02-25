@@ -12,7 +12,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://telegra.ph/file/475b1b979f9c603fec65f.png" alt="rajput-hemant" width="390"/>
+<img align="left" src="https://graph.org/file/475b1b979f9c603fec65f.png" alt="rajput-hemant" width="390"/>
 
 ```csharp
             ~~~ I use Arch btw ~~~
@@ -64,7 +64,7 @@
 
 ## Top Languages
 
-![][langs]
+![][left] ![][langs] ![][right]
 
 ## Contribution:
 
@@ -77,10 +77,12 @@
 <!----------------------------------{ reference links }--------------------------------->
 
 [stats]: https://github-readme-stats.vercel.app/api?username=rajput-hemant&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=false
-[langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=rajput-hemant&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact
+[langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=rajput-hemant&theme=dark&hide_border=false&count_private=false&layout=compact&langs_count=15&hide=html,css
 [streaks]: https://github-readme-streak-stats.herokuapp.com/?user=rajput-hemant&theme=dark&hide_border=false#gh-light-mode-only
 [quote]: https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark
 [meme]: https://random-memer.heavens-mirror.repl.co
+[left]: assets/left.webp
+[right]: assets/right.webp
 
 <!----------------------------------{ contribution stats }--------------------------------->
 
