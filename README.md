@@ -26,7 +26,7 @@
   GPU0: Intel UHD Graphics 630
   GPU1: NVIDIA GeForce GTX 1650 Ti Mobile
 ├─────────────── User Information ───────────────┤
-  Uptime: 20 years, 5 months, 7 days
+  Uptime: 20 years, 5 months, 8 days
   Host: GLA University #GLAU
   Kernel: Computer Science and Engineering #CSE
   Languages:
