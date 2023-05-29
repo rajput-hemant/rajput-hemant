@@ -85,7 +85,7 @@
 <!----------------------------------{ contribution stats }--------------------------------->
 
 [snake]: https://github.com/rajput-hemant/rajput-hemant/blob/output/snake.svg
-[graph]: https://github-readme-activity-graph.cyclic.app/graph?username=rajput-hemant&theme=react-dark&hide_border=false&area=true
+[graph]: https://github-readme-activity-graph.vercel.app/graph?username=rajput-hemant&theme=react-dark&hide_border=false&area=true
 
 <!----------------------------------{ language badges }--------------------------------->
 
