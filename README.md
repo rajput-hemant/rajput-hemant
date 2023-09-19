@@ -1,3 +1,4 @@
+<div>
 <a href="https://www.linkedin.com/in/rajput-hemant" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="38" alt="linkedin logo"/>
 </a>
@@ -5,8 +6,20 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50" height="38" alt="twitter logo"/>
 </a>
 <img align="right" src="https://komarev.com/ghpvc/?username=rajput-hemant&label=Profile+Views&style=plastic" alt="rajput-hemant" />
+</div>
 
-<br/>
+<div align=center>
+
+### Hi there 👋
+
+</br>
+
+<details>
+<summary>Expand...</summary>
+
+</br>
+
+<div align=left>
 
 ```zsh
 > neofetch
@@ -45,9 +58,9 @@
 └────────────────────────────────────────────────┘
 ```
 
-<br/>
+</div>
 
-<div align="center">
+<br/>
 
 ## 💻 Tech Stack:
 
@@ -73,6 +86,7 @@
 ![quote] <br/> ![meme]
 
 </div>
+</details>
 
 <!----------------------------------{ reference links }--------------------------------->
 
