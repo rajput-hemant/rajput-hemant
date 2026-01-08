@@ -1,20 +1,26 @@
 <samp>
 
+hi 👋 
+  
 hemant rajput  
-full-stack developer · js / ts · mathura, india
+full-stack developer · mathura, india
+
+
+<details>
+<summary>see more</summary>
 
 ────────────────────────────────
 
 experience
 
-| company                   | role                               | timeline                        | location                    |
-| ------------------------- | ---------------------------------- | ------------------------------- | --------------------------- |
-| [zunta]                   | full-stack developer               | jan 2026 → present              | lakewood, nj, usa (remote)    |
-| [blai]                    | full-stack engineer (react native) | sept 2025 → present             | cambridge, ma, usa (remote) |
-| [proghit]                 | sr. full-stack engineer            | sept 2024 → continuing at zunta | new york, ny, usa (remote)  |
-| [lightwork]               | product engineer                   | sept 2024 → july 2025           | london, uk (remote)         |
-| reddy-builders            | lead frontend engineer             | june 2024 → continuing at blai  | boston, ma, usa (remote)    |
-| [mixr]                    | frontend developer                 | july 2024 → feb 2025            | houston, tx, usa (remote)   |
+| company          | role                               | timeline                        | location                    |
+| ---------------- | ---------------------------------- | ------------------------------- | --------------------------- |
+| [zunta]          | full-stack developer               | jan 2026 → present              | lakewood, nj, usa (remote)  |
+| [blai]           | full-stack engineer (react native) | sept 2025 → present             | cambridge, ma, usa (remote) |
+| [proghit]        | sr. full-stack engineer            | sept 2024 → continuing at zunta | new york, ny, usa (remote)  |
+| [lightwork]      | product engineer                   | sept 2024 → july 2025           | london, uk (remote)         |
+| [reddy-builders] | lead frontend engineer             | june 2024 → continuing at blai  | boston, ma, usa (remote)    |
+| [mixr]           | frontend developer                 | july 2024 → feb 2025            | houston, tx, usa (remote)   |
 
 ────────────────────────────────
 
@@ -34,6 +40,8 @@ links
 
 [landing] · [website] · [email]  
 [github] · [linkedin] · [twitter] · [bluesky] · [peerlist]
+
+</details>
 
 </samp>
 
