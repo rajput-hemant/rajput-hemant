@@ -1,134 +1,53 @@
-<div>
-<a href="https://www.linkedin.com/in/rajput-hemant" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="38" alt="linkedin logo"/>
-</a>
-<a href="https://twitter.com/rajput_hemant01" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50" height="38" alt="twitter logo"/>
-</a>
-<img align="right" src="https://komarev.com/ghpvc/?username=rajput-hemant&label=Profile+Views&style=plastic" alt="rajput-hemant" />
-</div>
+<samp>
 
-<div align=center>
+hemant rajput  
+full-stack developer · js / ts · mathura, india
 
-### Hi there 👋
+────────────────────────────────
 
-</br>
+experience
 
-<details>
-<summary>Expand...</summary>
+| company                   | role                               | timeline                        | location                    |
+| ------------------------- | ---------------------------------- | ------------------------------- | --------------------------- |
+| [zunta]                   | full-stack developer               | jan 2026 → present              | lakewood, nj, usa (remote)    |
+| [blai]                    | full-stack engineer (react native) | sept 2025 → present             | cambridge, ma, usa (remote) |
+| [proghit]                 | sr. full-stack engineer            | sept 2024 → continuing at zunta | new york, ny, usa (remote)  |
+| [lightwork]               | product engineer                   | sept 2024 → july 2025           | london, uk (remote)         |
+| reddy-builders            | lead frontend engineer             | june 2024 → continuing at blai  | boston, ma, usa (remote)    |
+| [mixr]                    | frontend developer                 | july 2024 → feb 2025            | houston, tx, usa (remote)   |
 
-</br>
+────────────────────────────────
 
-<div align=left>
+skills
 
-```zsh
-> neofetch
-```
+js · ts · rust · go · react · next.js · vue · nuxtjs · svelte · sveltekit · node · hono · bun · postgres · supabase
 
-<img align="left" src="https://graph.org/file/475b1b979f9c603fec65f.png" alt="rajput-hemant" width="390"/>
+────────────────────────────────
 
-```csharp
-            ~~~ I use Arch btw ~~~
-┌────────────── System Information ──────────────┐
-  rajput-hemant@github
-  ----------------------
-  OS: Arch Linux x86_64
-  Shell: zsh 5.9
-  Resolution: 1920 x 1080
-  CPU: Intel i5-9300 H @ 4.1 GHz
-  GPU0: Intel UHD Graphics 630
-  GPU1: NVIDIA GeForce GTX 1650 Ti Mobile
-├─────────────── User Information ───────────────┤
-  Uptime: 20 years, 11 months, 17 days
-  Host: GLA University #GLAU
-  Kernel: Computer Science and Engineering #CSE
-  Languages:
-  -----------
-  Programming: Java, Python, Dart, ...
-  Real: Hindi, English & Kiliki
-  Hobbies:
-  ---------
-  Software: Music, Valorant
-  Hardware: Undervolting, Overclocking
-  Contact:
-  ---------
-  Email: hemant.rajput_cs20@gla.ac.in
-  LinkedIn: linkedin.com/in/rajput-hemant
-  Discord: rajput-hemant#8269
-└────────────────────────────────────────────────┘
-```
+education
 
-</div>
+gla university — b.tech cse (2020 → 2024)
 
-<br/>
+────────────────────────────────
 
-## 💻 Tech Stack:
+links
 
-![git] ![github] ![arch] ![docker] <br/>
-![java] ![py] ![go] ![rs] ![js] ![ts] <br/>
-![flutter] ![react] ![nextjs] ![vuejs] ![svelte] ![sveltekit] <br/>
-![tailwindcss] ![threejs] ![sh]
+[landing] · [website] · [email]  
+[github] · [linkedin] · [twitter] · [bluesky] · [peerlist]
 
-## 📊 GitHub Stats:
+</samp>
 
-| _Github Stats_ | _Streaks_  |
-| :------------: | :--------: |
-|    ![stats]    | ![streaks] |
-
-## Top Languages
-
-![langs]
-
-## Contribution:
-
-![snake] <br/> ![graph]
-
-![quote] <br/> ![meme]
-
-</div>
-</details>
-
-<!----------------------------------{ reference links }--------------------------------->
-
-[stats]: https://github-readme-stats.vercel.app/api?username=rajput-hemant&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=false
-[langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=rajput-hemant&theme=dark&hide_border=false&count_private=false&layout=compact&langs_count=10&hide=html,css,scss,less,stylus,shell,makefile,cmake,perl,php,blade,smarty,scss,less,stylus,shell,makefile,cmake,perl,php,blade,smarty,jupyter+notebook,
-[streaks]: https://github-readme-streak-stats.herokuapp.com/?user=rajput-hemant&theme=dark&hide_border=false#gh-light-mode-only
-[quote]: https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark
-[meme]: https://random-memer.heavens-mirror.repl.co
-
-<!----------------------------------{ contribution stats }--------------------------------->
-
-[snake]: https://github.com/rajput-hemant/rajput-hemant/blob/output/snake.svg
-[graph]: https://github-readme-activity-graph.vercel.app/graph?username=rajput-hemant&theme=react-dark&hide_border=false&area=true
-
-<!----------------------------------{ language badges }--------------------------------->
-
-[java]: https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java
-[dart]: https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white
-[go]: https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white
-[rs]: https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white
-[ts]: https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white
-[py]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
-[sh]: https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash
-[js]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
-[md]: https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown
-
-<!----------------------------------{ frameworks badges }--------------------------------->
-
-[react]: https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
-[nextjs]: https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white
-[vuejs]: https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D
-[svelte]: https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white
-[sveltekit]: https://img.shields.io/badge/sveltekit-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white
-[tailwindcss]: https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white
-[flutter]: https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter
-
-<!----------------------------------------{ others }--------------------------------------->
-
-[docker]: https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
-[threejs]: https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white
-[github]: https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
-[mysql]: https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white
-[arch]: https://img.shields.io/badge/archlinux-%231793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=white
-[git]: https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
-[vscode]: https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white
+[zunta]: https://zunta.com/
+[blai]: https://blaiapp.io/
+[proghit]: https://www.proghit.com/
+[lightwork]: https://www.lightwork.co/
+[reddy-builders]: https://reddybuilders.com
+[mixr]: https://mixr.gg
+[landing]: https://landing.rajputhemant.dev
+[website]: https://rajputhemant.dev
+[email]: mailto:rajput.hemant2001@gmail.com
+[github]: https://github.com/rajput-hemant
+[linkedin]: https://www.linkedin.com/in/rajput-hemant
+[twitter]: https://twitter.com/rajput_hemant01
+[bluesky]: https://bsky.app/profile/rajput-hemant.bsky.social
+[peerlist]: https://peerlist.io/rajputhemant
