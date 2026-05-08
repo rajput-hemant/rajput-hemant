@@ -15,7 +15,7 @@ experience
 | company          | role                               | timeline              | location                    |
 | ---------------- | ---------------------------------- | --------------------- | --------------------------- |
 | [zunta]          | full-stack developer               | jan 2026 → present    | lakewood, nj, usa (remote)  |
-| [blai]           | full-stack engineer (react native) | sept 2025 → present   | cambridge, ma, usa (remote) |
+| [blai]           | full-stack engineer (react native) | sept 2025 → may 2026  | cambridge, ma, usa (remote) |
 | [proghit]        | sr. full-stack engineer            | sept 2024 → zunta     | new york, ny, usa (remote)  |
 | [lightwork]      | product engineer                   | sept 2024 → july 2025 | london, uk (remote)         |
 | [reddy-builders] | lead frontend engineer             | june 2024 → blai      | boston, ma, usa (remote)    |
